@@ -1,3 +1,3 @@
 # Projects 
 
-click to visit website:https://github.com/AngelineW/Projects.git
+click to visit website:https:///AngelineW.github.io/Projects/
